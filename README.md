@@ -8,6 +8,12 @@ It provides actionable insights to help businesses understand customer behavior 
 
 ---
 
+## Project Statement & Insights
+A detailed **Project Statement and Insights** document is included in this repository for a comprehensive understanding of the analysis, business objectives, and findings.  
+Refer to [`Project_Insights.pdf`](Project_Insights.pdf) for a deeper dive.
+
+---
+
 ## Key Insights
 - **Total Revenue:** ₹3,520,984  
 - **Average Customer Spend:** ₹3,520.98  
@@ -22,36 +28,44 @@ It provides actionable insights to help businesses understand customer behavior 
 ## Tools Used
 - Microsoft Excel – Data cleaning, transformation, and visualization  
 - Power Query – Data preparation  
+- Power Pivot – Data modelling  
 - Pivot Tables and Charts – Trend and revenue analysis  
-- Power BI (optional) – Advanced visualization
 
 ---
 
 ## Project Files
-| File Name           | Description                               |
-|---------------------|-------------------------------------------|
-| `Dashboard.png`     | Snapshot of the sales analysis dashboard |
-| `Sales_Data.xlsx`   | Dataset with transformed data            |
-| `Data_Cleaning.sql` | SQL queries used for data preparation    |
+| File Name                | Description                                        |
+|--------------------------|----------------------------------------------------|
+| `Dashboard.png`          | Snapshot of the sales analysis dashboard          |
+| `Sales_Data.xlsx`        | Dataset with transformed data                     |
+| `Data_Cleaning.sql`      | SQL queries used for data preparation             |
+| `Project_Insights.pdf`   | Detailed report with project statement and insights|
+
+---
+
+## Download the Excel File
+To download the cleaned dataset and dashboard file directly:  
+[**Download Sales_Data.xlsx**](Ferns_and_petals.xlsx)
 
 ---
 
 ## How to Use
 1. Download the repository.  
-2. Open the `Sales_Data.xlsx`(Ferns) file in Excel or Power BI.  
-3. Explore the dashboard and adjust filters to analyze different time periods or categories.
+2. Open the `Sales_Data.xlsx` file in Excel.  
+3. Review `Project_Insights.pdf` for detailed findings.  
+4. Explore the dashboard and adjust filters to analyze different time periods or categories.
 
 ---
 
 ## Key Learning
 - Developed an interactive dashboard to provide actionable business insights.  
-- Applied Power Query, Pivot Tables, and Charts for ETL and visualization.  
+- Applied Power Query, Power Pivot, Pivot Tables, and Charts for ETL and visualization.  
 - Demonstrated the ability to deliver professional, data-driven insights from raw data.
 
 ---
 
 ## Contact
-Name: *Ayon Das*  
-Email: *dasayan3089@gmail.com*  
+Name: Ayon Das  
+Email: dasayan3089@gmail.com  
 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ayon-das-4b3212147/)  
 GitHub: [My GitHub Profile](https://github.com/runTimeeRrorOccuRred)
