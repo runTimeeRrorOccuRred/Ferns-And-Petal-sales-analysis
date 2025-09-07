@@ -37,8 +37,7 @@ Refer to [`Project_Insights.pdf`](Project_Insights.pdf) for a deeper dive.
 | File Name                | Description                                        |
 |--------------------------|----------------------------------------------------|
 | `Dashboard.png`          | Snapshot of the sales analysis dashboard          |
-| `Sales_Data.xlsx`        | Dataset with transformed data                     |
-| `Data_Cleaning.sql`      | SQL queries used for data preparation             |
+| `Ferns_and_petals.xlsx`  | Dataset with transformed data                     |
 | `Project_Insights.pdf`   | Detailed report with project statement and insights|
 
 ---
