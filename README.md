@@ -10,7 +10,7 @@ It provides actionable insights to help businesses understand customer behavior 
 
 ## Project Statement & Insights
 A detailed **Project Statement and Insights** document is included in this repository for a comprehensive understanding of the analysis, business objectives, and findings.  
-Refer to [`Project Statments`](documents/Problem_statement.pdf) and 
+Refer to [`Project Statments`](Documents/Problem_statement.pdf) and 
 [`Project_Insights`](Documents/Ferns_and_Petals_Sales_analysis_Dashboard_insights.pdf) for a deeper dive.
 
 ---
